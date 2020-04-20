@@ -8,13 +8,13 @@ npm i injection-js-umd
 and add locally to the page
 
 ```html
-<script src="node_modules/dist/injection-js.umd.js"><script>
+<script src="node_modules/dist/injection-js.umd.js"></script>
 ```
 
 or from CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/injection-js-umd@2.3.1/dist/injection-js.umd.js"><script>
+<script src="https://cdn.jsdelivr.net/npm/injection-js-umd@2.3.1/dist/injection-js.umd.js"></script>
 ```
 
 ```js
