@@ -1,6 +1,6 @@
 {
   "name": "injection-js-umd",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "UMD bundle compiled from injection-js and @abraham/reflection by Minko Gechev and Abraham Williams",
   "main": "dist/injectio-js.umd.js",
   "module": "",
